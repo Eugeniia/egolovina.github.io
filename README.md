@@ -1,8 +1,13 @@
-## Evgeniia Golovina, PhD
+---
+
+layout: default
+title: Evgeniia Golovina, PhD
+
+---
+
+#### Postdoctoral Fellow at the Liggins Institute, University of Auckland
 
 <img align="right" src="images/Evgeniia.png" style="width:300px;">
-
-##### Postdoctoral Fellow at the Liggins Institute, University of Auckland
 
 Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help people solve their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
 
