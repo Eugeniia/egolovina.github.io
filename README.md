@@ -1,9 +1,4 @@
----
-
-layout: default
-title: Evgeniia Golovina, PhD
-
----
+## Evgeniia Golovina, PhD
 
 #### Postdoctoral Fellow at the Liggins Institute, University of Auckland
 
