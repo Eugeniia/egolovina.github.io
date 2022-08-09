@@ -33,7 +33,7 @@ Contact me via Linkedin or email.
 
 &nbsp;
 
-### EDUCATION
+### **Education**
 
 **2017 &ndash; 2021**<br/>
 **PhD**. *University of Auckland, Liggins Institute, Health Sciences*<br/>
@@ -57,7 +57,7 @@ Thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersburg an
 
 &nbsp;
 
-### PROFESSIONAL & RESEARCH EXPERIENCE
+### **Professional & Research experience**
 
 <strong>11.10.2021 &mdash; present</strong><br/>
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
@@ -115,7 +115,7 @@ Performed laboratory diagnosis of hepatitis C, torque teno, and influenza viruse
 
 &nbsp;
 
-### SKILLS & INTERESTS
+### **Skills & Interests**
 
 **Personal qualities:**
 Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested in getting things done, excellent organizational and communication skills, eager to learn and develop new skills, willing to travel up to 80%
@@ -138,7 +138,7 @@ Hiking, yoga, art, sports massage, scuba diving and freediving, first aid
 
 &nbsp;
 
-### ACTIVITIES / PRESENTATIONS
+### **Activities / Presentations**
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
 - **15th GeneMappers Conference 2021** (oral presentation), 23-25 June 2021<br/>
 - **IET #PresentIn10 Competition** (Healthy lives, Stage 1 winner), 23 June 2021<br/>
@@ -155,7 +155,7 @@ November 2020<br/>
 
 &nbsp;
 
-### PUBLICATIONS
+### **Publications**
 
 - Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. Brain. 2022.  [DOI](https://doi.org/10.1093/brain/awac022)
 - Fadason T, Farrow S, Gokuladhas S, **Golovina E**, Nyaga D, O'Sullivan JM, Schierding W. Assigning function to SNPs: Considerations when interpreting genetic variation. Semin Cell Dev Biol. 2021. [DOI](https://doi.org/10.1016/j.semcdb.2021.08.008)
@@ -167,7 +167,7 @@ November 2020<br/>
 
 &nbsp;
 
-### VOLUNTEER EXPERIENCE
+### **Volunteer experience**
 
 <strong>01.04.2021 &mdash; present</strong><br/>
 <strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
@@ -209,7 +209,7 @@ Ready to respond to and help a patient suspected to be in cardiac arrest.
 
 &nbsp;
 
-### ADDITIONAL EDUCATION
+### **Additional education**
 - [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
 - [Virtual Leadership Development Course "Universitas 21 Global Citizenship"](https://universitas21.com/globalcitizens) by Universitas 21 & Common
@@ -236,7 +236,7 @@ Purpose, 4-27 October 2021
 
 &nbsp;
 
-### REFEREES
+### **Referees**
 
 - **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
 - **MBA, PhD. Alessandro Riccombeni**, *Amazon Web Services*, email: alessandro.riccombeni@gmail.com
@@ -246,19 +246,3 @@ Purpose, 4-27 October 2021
 
 
 <div align="right"><i>Best printed with Google Chrome</i></div>
-
-
-
-
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eugeniia/my_cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
