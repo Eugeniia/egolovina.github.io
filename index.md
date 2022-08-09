@@ -214,7 +214,7 @@ Purpose, 4-27 October 2021
 ### **Referees**
 
 - **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
-- **MBA, PhD. Alessandro Riccombeni**, *Amazon Web Services*, email: alessandro.riccombeni@gmail.com
+- **MBA, PhD. Alessandro Riccombeni**, *Microsoft*, email: alessandro.riccombeni@gmail.com
 - **Sarah Clifton**, *The University of Auckland English Language Academy*, email: sarah.clifton@auckland.ac.nz
 - **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
 - **Prof. Lyudmila Panina**, *Saint Petersburg State University*, email: lkpanina@yandex.ru
