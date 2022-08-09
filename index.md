@@ -163,7 +163,6 @@ Role: Job Mentor<br/>
 
 Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
 
-&nbsp;
 
 <strong>01.09.2021 &mdash; present</strong><br/>
 <strong>[The University of Auckland English Language Academy](https://www.ela.auckland.ac.nz/)</strong>, Auckland, New Zealand<br/>
@@ -171,7 +170,6 @@ Role: Conversation Leader<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
 
-&nbsp;
 
 <strong>09.03.2022 &mdash; present</strong><br/>
 <strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
@@ -179,7 +177,6 @@ Role: Business Mentor<br/>
 
 Supporting business students (Women’s Mentoring Programme).
 
-&nbsp;
 
 <strong>01.09.2021 &mdash; present</strong><br/>
 <strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
@@ -187,7 +184,6 @@ Role: Discussion Leader<br/>
 
 Sharing my passion for reading through creating an engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
-&nbsp;
 
 <strong>01.10.2021 &mdash; present</strong><br/>
 <strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
