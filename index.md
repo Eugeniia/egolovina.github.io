@@ -34,8 +34,8 @@ Contact me via Linkedin or email.
 
 **2017 &ndash; 2021**<br/>
 **PhD**. *University of Auckland, Liggins Institute, Health Sciences*<br/>
-Thesis “[Decoding the regulatory landscape of psychiatric and alcohol use
-disorders](https://hdl.handle.net/2292/57161)”<br/>
+Thesis “Decoding the regulatory landscape of psychiatric and alcohol use
+disorders”<br/>
 
 **2012 &ndash; 2014**<br/>
 **MSc**. *Saint Petersburg State University, Biology*<br/>
@@ -57,50 +57,43 @@ Thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersburg an
 ### **Professional & Research experience**
 
 <strong>11.10.2021 &mdash; present</strong><br/>
-<strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
-Position: Postdoctoral Fellow<br/>
+<strong>Postdoctoral Fellow</strong>, Liggins Institute, Auckland, New Zealand<br/>
 
 Developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits. Co-supervising three PhD students.
 
 
 <strong>13.06.2022 &mdash; 18.07.2022</strong><br/>
-<strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
-Position: UoA Micro-internship Mentor<br/>
+<strong>UoA Micro-internship Mentor</strong>, Talent Solutions, Auckland, New Zealand<br/>
 
 Supported three teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, SWOT and SEO analyses, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
 
 <strong>09.11.2021 &mdash; 17.12.2021</strong><br/>
-<strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
-Position: UoA Micro-internship Mentor<br/>
+<strong>UoA Micro-internship Mentor</strong>, Talent Solutions, Auckland, New Zealand<br/>
 
 Supported two teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, market research, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
 
 <strong>01.04.2021 &mdash; 11.10.2021</strong><br/>
-<strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
-Position: Research Assistant<br/>
+<strong>Research Assistant</strong>, Liggins Institute, Auckland, New Zealand<br/>
 
 Performed multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease and co-occuring traits.
 
 
 <strong>10.12.2013 &mdash; 25.08.2017</strong><br/>
-<strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
-Position: Biologist<br/>
+<strong>Biologist</strong>, Genestack, Saint Petersburg, Russia<br/>
 
 Performed Next-Generation Sequencing analysis of different types of data (RNAseq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome). Developed a test system for biological applications. Curated experiments pre-uploaded from public databases. Helped software developers create user-friendly interfaces. Promoted the company products. Supported users.
 
 
 <strong>01.02.2013 &mdash; 26.09.2013</strong><br/>
-<strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
-Position: Patent agent<br/>
+<strong>Patent agent</strong>, Nevinpat, Saint Petersburg, Russia<br/>
 
 Protected foreign applications coming from Russian and Eurasian patent offices. Facilitated correspondence between patent experts and foreign applicants. Performed comparative analysis of patentability. Edited Russian translations of patent applications. Defined patent infringement.
 
 
 <strong>01.12.2010 &mdash; 29.06.2012</strong><br/>
-<strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
-Position: Research Assistant<br/>
+<strong>Research Assistant</strong>, Smorodintsev Research Institute of Influenza, Saint Petersburg, Russia<br/>
 
 Performed laboratory diagnosis of hepatitis C, torque teno, and influenza viruses.
 
@@ -161,36 +154,31 @@ November 2020<br/>
 ### **Volunteer experience**
 
 <strong>01.04.2021 &mdash; present</strong><br/>
-<strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
-Role: Job Mentor<br/>
+<strong>Job Mentor</strong>, English Language Partners, Auckland, New Zealand<br/>
 
 Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
 
 
 <strong>01.09.2021 &mdash; present</strong><br/>
-<strong>[The University of Auckland English Language Academy](https://www.ela.auckland.ac.nz/)</strong>, Auckland, New Zealand<br/>
-Role: Conversation Leader<br/>
+<strong>Conversation Leader</strong>, The University of Auckland English Language Academy, Auckland, New Zealand<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
 
 
 <strong>09.03.2022 &mdash; present</strong><br/>
-<strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
-Role: Business Mentor<br/>
+<strong>Business Mentor</strong>, The University of Auckland Business School, Auckland, New Zealand<br/>
 
 Supporting business students (Women’s Mentoring Programme).
 
 
 <strong>01.09.2021 &mdash; present</strong><br/>
-<strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
-Role: Discussion Leader<br/>
+<strong>Discussion Leader</strong>, The University of Auckland Book Club, Auckland, New Zealand<br/>
 
 Sharing my passion for reading through creating an engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
 
 <strong>01.10.2021 &mdash; present</strong><br/>
-<strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
-Role: GoodSAM Responder<br/>
+<strong>GoodSAM Responder</strong>, GoodSAM, Auckland, New Zealand<br/>
 
 Ready to respond to and help a patient suspected to be in cardiac arrest.
 
