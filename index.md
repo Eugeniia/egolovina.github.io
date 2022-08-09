@@ -1,4 +1,6 @@
-## Postdoctoral Fellow at Liggins Institute, University of Auckland, New Zealand
+## Evgeniia Golovina, PhD
+
+#### Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand
 
 <div>
 <img align="right" style="width:260px; vertical-align:middle" src="images/Evgeniia.png">
