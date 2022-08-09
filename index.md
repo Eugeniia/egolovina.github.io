@@ -1,11 +1,10 @@
 #### Postdoctoral Fellow at the Liggins Institute, University of Auckland
 
+<img align="right" src="images/Evgeniia.png" style="width:260px;">
+
 Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help people solve their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.
 
 Contact me via Linkedin or email.
-
-
-<img align="right" src="images/Evgeniia.png" style="width:260px;">
 
 ### **Summary:**
 
@@ -60,7 +59,6 @@ Position: Postdoctoral Fellow<br/>
 
 Developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits. Co-supervising three PhD students.
 
-&nbsp;
 
 <strong>13.06.2022 &mdash; 18.07.2022</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
@@ -68,7 +66,6 @@ Position: UoA Micro-internship Mentor<br/>
 
 Supported three teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, SWOT and SEO analyses, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
-&nbsp;
 
 <strong>09.11.2021 &mdash; 17.12.2021</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
@@ -76,7 +73,6 @@ Position: UoA Micro-internship Mentor<br/>
 
 Supported two teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, market research, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
-&nbsp;
 
 <strong>01.04.2021 &mdash; 11.10.2021</strong><br/>
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
@@ -84,7 +80,6 @@ Position: Research Assistant<br/>
 
 Performed multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease and co-occuring traits.
 
-&nbsp;
 
 <strong>10.12.2013 &mdash; 25.08.2017</strong><br/>
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
@@ -92,7 +87,6 @@ Position: Biologist<br/>
 
 Performed Next-Generation Sequencing analysis of different types of data (RNAseq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome). Developed a test system for biological applications. Curated experiments pre-uploaded from public databases. Helped software developers create user-friendly interfaces. Promoted the company products. Supported users.
 
-&nbsp;
 
 <strong>01.02.2013 &mdash; 26.09.2013</strong><br/>
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
@@ -100,7 +94,6 @@ Position: Patent agent<br/>
 
 Protected foreign applications coming from Russian and Eurasian patent offices. Facilitated correspondence between patent experts and foreign applicants. Performed comparative analysis of patentability. Edited Russian translations of patent applications. Defined patent infringement.
 
-&nbsp;
 
 <strong>01.12.2010 &mdash; 29.06.2012</strong><br/>
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
