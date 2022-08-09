@@ -1,4 +1,5 @@
-#### Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand
+### Postdoctoral Fellow at Liggins Institute, University of Auckland
+#### Auckland, New Zealand
 
 &nbsp;
 
