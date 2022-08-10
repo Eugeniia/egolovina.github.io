@@ -63,7 +63,6 @@ Position: Postdoctoral Fellow<br/>
 
 Developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits. Co-supervising three PhD students.
 
-&nbsp;
 
 <strong>13.06.2022 &mdash; 18.07.2022</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
@@ -71,7 +70,6 @@ Position: UoA Micro-internship Mentor<br/>
 
 Supported three teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, SWOT and SEO analyses, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
-&nbsp;
 
 <strong>09.11.2021 &mdash; 17.12.2021</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
@@ -79,7 +77,6 @@ Position: UoA Micro-internship Mentor<br/>
 
 Supported two teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, market research, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
 
-&nbsp;
 
 <strong>01.04.2021 &mdash; 11.10.2021</strong><br/>
 <strong>[Liggins Institute](https://www.auckland.ac.nz/en/liggins.html)</strong>, Auckland, New Zealand<br/>
@@ -87,7 +84,6 @@ Position: Research Assistant<br/>
 
 Performed multi-omics integrative data analysis to identify the spatial regulatory gene network of chronic obstructive pulmonary disease and co-occuring traits.
 
-&nbsp;
 
 <strong>10.12.2013 &mdash; 25.08.2017</strong><br/>
 <strong>[Genestack](https://genestack.com/)</strong>, Saint Petersburg, Russia<br/>
@@ -95,7 +91,6 @@ Position: Biologist<br/>
 
 Performed Next-Generation Sequencing analysis of different types of data (RNAseq, WGS, WES, WGBS, RRBS, single-cell RNA-seq, microarray, ChIP-seq, DNase-seq, microbiome). Developed a test system for biological applications. Curated experiments pre-uploaded from public databases. Helped software developers create user-friendly interfaces. Promoted the company products. Supported users.
 
-&nbsp;
 
 <strong>01.02.2013 &mdash; 26.09.2013</strong><br/>
 <strong>Nevinpat</strong>, Saint Petersburg, Russia<br/>
@@ -103,7 +98,6 @@ Position: Patent agent<br/>
 
 Protected foreign applications coming from Russian and Eurasian patent offices. Facilitated correspondence between patent experts and foreign applicants. Performed comparative analysis of patentability. Edited Russian translations of patent applications. Defined patent infringement.
 
-&nbsp;
 
 <strong>01.12.2010 &mdash; 29.06.2012</strong><br/>
 <strong>[Smorodintsev Research Institute of Influenza](https://influenza.spb.ru/en/about_institute/institute_today/)</strong>, Saint Petersburg, Russia<br/>
@@ -173,7 +167,6 @@ Role: Job Mentor<br/>
 
 Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
 
-&nbsp;
 
 <strong>01.09.2021 &mdash; present</strong><br/>
 <strong>[The University of Auckland English Language Academy](https://www.ela.auckland.ac.nz/)</strong>, Auckland, New Zealand<br/>
@@ -181,7 +174,6 @@ Role: Conversation Leader<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
 
-&nbsp;
 
 <strong>09.03.2022 &mdash; present</strong><br/>
 <strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
@@ -189,7 +181,6 @@ Role: Business Mentor<br/>
 
 Supporting business students (Women’s Mentoring Programme).
 
-&nbsp;
 
 <strong>01.09.2021 &mdash; present</strong><br/>
 <strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
@@ -197,7 +188,6 @@ Role: Discussion Leader<br/>
 
 Sharing my passion for reading through creating an engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
-&nbsp;
 
 <strong>01.10.2021 &mdash; present</strong><br/>
 <strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
