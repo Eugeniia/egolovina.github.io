@@ -1,7 +1,5 @@
 [Home](index.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
-&nbsp;
-
 ### **Education**
 
 **2017 &ndash; 2021**<br/>
