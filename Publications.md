@@ -1,7 +1,5 @@
 [Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
-&nbsp;
-
 ### **Publications**
 
 - Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. Brain. 2022.  [DOI](https://doi.org/10.1093/brain/awac022)
