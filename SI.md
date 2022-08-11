@@ -2,6 +2,8 @@
 
 [Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
+&nbsp;
+
 **Personal qualities:**
 Self-starter on exploratory projects, goal-driven, scientific curiosity, highly interested in getting things done, excellent organizational and communication skills, eager to learn and develop new skills, willing to travel up to 80%
 
