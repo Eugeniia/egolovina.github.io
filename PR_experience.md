@@ -1,7 +1,5 @@
 [Home](index.md) | [Education](Education.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
-&nbsp;
-
 ### **Professional & Research experience**
 
 <strong>11.10.2021 &mdash; present</strong><br/>
