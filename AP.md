@@ -1,7 +1,5 @@
 [Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
-&nbsp;
-
 ### **Activities / Presentations**
 
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
@@ -17,4 +15,3 @@ November 2020<br/>
 - **HealtheX 2019 conference** (oral presentation), 13th September 2019, Auckland, NZ<br/>
 - **The Research Bazaar (ResBaz) 2019**, helper for “Introductory R” session, 10-12 July 2019, Auckland, NZ<br/>
 - **HealtheX 2018 conference** (elevator pitch presentation), 7th September 2018, Auckland, NZ<br/>
-- 
