@@ -7,8 +7,6 @@
 <span style="vertical-align:middle">Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help people solve their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.</span>
 </div>
 
-Contact me via Linkedin or email.
-
 ### **Summary:**
 
 - 7 years of experience in data science
@@ -27,6 +25,14 @@ Contact me via Linkedin or email.
 - ResearchGate: [https://www.researchgate.net/profile/Evgeniia_Golovina2](https://www.researchgate.net/profile/Evgeniia_Golovina2)
 - Google Scholar: [https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
 - Publons: [https://publons.com/researcher/4650922/evgeniia-golovina/](https://publons.com/researcher/4650922/evgeniia-golovina/)
+
+### **Referees**
+
+- **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
+- **MBA, PhD. Alessandro Riccombeni**, *Microsoft*, email: alessandro.riccombeni@gmail.com
+- **Sarah Clifton**, *The University of Auckland English Language Academy*, email: sarah.clifton@auckland.ac.nz
+- **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
+- **Prof. Lyudmila Panina**, *Saint Petersburg State University*, email: lkpanina@yandex.ru
 
 &nbsp;
 
@@ -208,16 +214,3 @@ Purpose, 4-27 October 2021
 - **Winter School in Mathematical & Computational Biology** by the University of Queensland, 2-6 July 2018, Brisbane, Australia
 - **Enterprise & Innovation Workshop** by Centre for Innovation and Entrepreneurship at the University of Auckland, 7 & 13 March 2018, Auckland, NZ
 - **PhD Research Innovation & Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ
-
-&nbsp;
-
-### **Referees**
-
-- **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
-- **MBA, PhD. Alessandro Riccombeni**, *Microsoft*, email: alessandro.riccombeni@gmail.com
-- **Sarah Clifton**, *The University of Auckland English Language Academy*, email: sarah.clifton@auckland.ac.nz
-- **Prof Emer. John Werry**, *University of Auckland*, email: j.werry@auckland.ac.nz
-- **Prof. Lyudmila Panina**, *Saint Petersburg State University*, email: lkpanina@yandex.ru
-
-
-<div align="right"><i>Best printed with Google Chrome</i></div>
