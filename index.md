@@ -2,6 +2,8 @@
 
 ### **Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand**
 
+[Education](Education.md) | [Professional & Research experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities / Presentations](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+
 <div>
 <img align="right" style="width:260px; vertical-align:middle" src="images/Evgeniia.png">
 <span style="vertical-align:middle">Arkady and Boris Strugatsky, the greatest Russian science fiction masters, once wrote in “Monday Starts on Saturday” that the goal of science is human happiness. I agree. I’m passionate about science, and I have the same goal in mind - I want to be useful and make my small contribution to solving global health problems and making people at least a little happier. To discover this secret of happiness, I want to understand where it comes from and how to attain it for our society. I think it comes from me, from you, from our compassion, our courage, and our intentions to help people solve their problems. How to help people solve their problems is a difficult question, it's a challenge. Do you like challenges? I like too.</span>
@@ -26,7 +28,7 @@
 - Google Scholar: [https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
 - Publons: [https://publons.com/researcher/4650922/evgeniia-golovina/](https://publons.com/researcher/4650922/evgeniia-golovina/)
 
-### **Referees**
+### **Referees:**
 
 - **Prof. Justin O’Sullivan**, *Liggins Institute, University of Auckland*, email: justin.osullivan@auckland.ac.nz
 - **MBA, PhD. Alessandro Riccombeni**, *Microsoft*, email: alessandro.riccombeni@gmail.com
