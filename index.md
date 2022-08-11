@@ -2,7 +2,9 @@
 
 ### **Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand**
 
-[Education](Education.md) | [Professional & Research experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities / Presentations](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+[Education](Education.md) | [Professional & Research experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+
+&nbsp;
 
 <div>
 <img align="right" style="width:260px; vertical-align:middle" src="images/Evgeniia.png">
