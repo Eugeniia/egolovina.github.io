@@ -1,6 +1,6 @@
-[Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+## **Publications**
 
-### **Publications**
+[Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
 - Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. Brain. 2022.  [DOI](https://doi.org/10.1093/brain/awac022)
 - Fadason T, Farrow S, Gokuladhas S, **Golovina E**, Nyaga D, O'Sullivan JM, Schierding W. Assigning function to SNPs: Considerations when interpreting genetic variation. Semin Cell Dev Biol. 2021. [DOI](https://doi.org/10.1016/j.semcdb.2021.08.008)
