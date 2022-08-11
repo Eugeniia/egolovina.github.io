@@ -21,12 +21,12 @@
 ### **Contact information:**
 
 - Email: Jn.Golovina@gmail.com, e.golovina@auckland.ac.nz
-- Linkedin: [https://www.linkedin.com/in/evgeniiagolovina/](https://www.linkedin.com/in/evgeniiagolovina/)
-- Github: [https://github.com/Eugeniia](https://github.com/Eugeniia)
-- Twitter: [https://twitter.com/FoffaJn](https://twitter.com/FoffaJn)
-- ResearchGate: [https://www.researchgate.net/profile/Evgeniia_Golovina2](https://www.researchgate.net/profile/Evgeniia_Golovina2)
-- Google Scholar: [https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
-- Publons: [https://publons.com/researcher/4650922/evgeniia-golovina/](https://publons.com/researcher/4650922/evgeniia-golovina/)
+- [LinkedIn]({{site.linkedin}})
+- [Github]({{site.github}})
+- [Twitter]({{site.twitter}})
+- [ResearchGate]({{site.researchgate}})
+- [Google Scholar]({{site.google_scholar}})
+- [Publons]({{site.publons}})
 
 ### **Referees:**
 
