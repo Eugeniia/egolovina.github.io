@@ -1,6 +1,6 @@
-[Home](index.md) | [Education](Education.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+## **Professional & Research experience**
 
-### **Professional & Research experience**
+[Home](index.md) | [Education](Education.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
 
 <strong>11.10.2021 &mdash; present</strong><br/>
 <strong>Postdoctoral Fellow</strong>, Liggins Institute, Auckland, New Zealand<br/>
