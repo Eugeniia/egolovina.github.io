@@ -2,6 +2,8 @@
 
 [Home](index.md) | [Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Additional education](Additional_education.md)
 
+&nbsp;
+
 <strong>01.04.2021 &mdash; present</strong><br/>
 <strong>Job Mentor</strong>, English Language Partners, Auckland, New Zealand<br/>
 
