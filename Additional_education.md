@@ -4,6 +4,7 @@
 
 &nbsp;
 
+- Applied Health Economics for Public Health Practice and Research Online Course by Bangor University, 6-7 September 2022<br/>
 - [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
 - [Virtual Leadership Development Course "Universitas 21 Global Citizenship"](https://universitas21.com/globalcitizens) by Universitas 21 & Common

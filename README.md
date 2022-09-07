@@ -131,7 +131,6 @@ Hiking, yoga, art, sports massage, scuba diving and freediving, first aid
 &nbsp;
 
 ### **Activities / Presentations**
-- **Applied Health Economics for Public Health Practice and Research Online Course** by Bangor University, 6-7 September 2022<br/>
 - **Queenstown Research Week 2019** (poster presentation), 31 August - 1 September 2022, Queenstown, NZ<br/>
 - **Australasian Winter Conference on Brain Research** (oral presentation), 28 August - 30 August 2022, Queenstown, NZ<br/>
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
@@ -201,6 +200,7 @@ Ready to respond to and help a patient suspected to be in cardiac arrest.
 &nbsp;
 
 ### **Additional education**
+- Applied Health Economics for Public Health Practice and Research Online Course by Bangor University, 6-7 September 2022<br/>
 - [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
 - [Virtual Leadership Development Course "Universitas 21 Global Citizenship"](https://universitas21.com/globalcitizens) by Universitas 21 & Common

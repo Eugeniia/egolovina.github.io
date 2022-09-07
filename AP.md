@@ -4,7 +4,6 @@
 
 &nbsp;
 
-- **Applied Health Economics for Public Health Practice and Research Online Course** by Bangor University, 6-7 September 2022<br/>
 - **Queenstown Research Week 2019** (poster presentation), 31 August - 1 September 2022, Queenstown, NZ<br/>
 - **Australasian Winter Conference on Brain Research** (oral presentation), 28 August - 30 August 2022, Queenstown, NZ<br/>
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
