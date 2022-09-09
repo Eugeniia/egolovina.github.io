@@ -4,7 +4,7 @@
 
 &nbsp;
 
-- **Queenstown Research Week 2019** (poster presentation), 31 August - 1 September 2022, Queenstown, NZ<br/>
+- **Queenstown Research Week 2022** (poster presentation), 31 August - 1 September 2022, Queenstown, NZ<br/>
 - **Australasian Winter Conference on Brain Research** (oral presentation), 28 August - 30 August 2022, Queenstown, NZ<br/>
 - **Liggins seminar** (oral presentation), Auckland, NZ, 17th of August, 2021<br/>
 - **15th GeneMappers Conference 2021** (oral presentation), 23-25 June 2021<br/>
