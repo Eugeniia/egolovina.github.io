@@ -1,6 +1,6 @@
 ## **Professional & Research experience**
 
-[Home](index.md) | [Education](Education.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+[Home](index.md) | [Education](Education.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md) | [Honors & Awards](HA.md)
 
 &nbsp;
 
