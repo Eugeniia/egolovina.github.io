@@ -4,6 +4,7 @@
 
 &nbsp;
 
+- [Improv 101](https://www.coverttheatre.com/improv-for-adults), 10-week Acting Course by the Covert Theatre, 18 July - 19 September 2022
 - Applied Health Economics for Public Health Practice and Research Online Course by Bangor University, 6-7 September 2022<br/>
 - [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022

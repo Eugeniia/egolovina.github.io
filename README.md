@@ -123,7 +123,7 @@ Python, R, MatLab, C++, Bash
 Russian (native), English (professional), Spanish (limited), German (elementary)
 
 **Professional interests:**
-Health sciences, bioinformatics, data science, data visualization, public speaking, machine learning, 4D genome architecture, gene regulation, scientific communication, neurogenetics, psychology, precision medicine, innovation and commercialization in science
+Health sciences, bioinformatics, data science, data visualization, public speaking, machine learning, 4D genome architecture, gene regulation, scientific communication, behavioral genetics, psychology, precision medicine, innovation and commercialization in science
 
 **Hobbies:**
 Hiking, yoga, art, sports massage, scuba diving and freediving, first aid
@@ -200,6 +200,7 @@ Ready to respond to and help a patient suspected to be in cardiac arrest.
 &nbsp;
 
 ### **Additional education**
+- [Improv 101](https://www.coverttheatre.com/improv-for-adults), 10-week Acting Course by the Covert Theatre, 18 July - 19 September 2022
 - Applied Health Economics for Public Health Practice and Research Online Course by Bangor University, 6-7 September 2022<br/>
 - [Virtual U21 Early Career Researcher Workshop on Planetary Health](https://ghum.kuleuven.be/phd/u21-early-career-research-workshop-on-planetary-health) by Universitas 21, 21-25 February 2022
 - [Certified Carpentries Instructor](https://www.dropbox.com/s/mh0beqdxfykn4te/homemaneeshaDocumentsjobscarpentriescarpentries_reposcertificationdc-instructorgolovina_evgeniia.pdf?dl=0) by [The Carpentries](https://carpentries.org/), 12th January 2022
@@ -224,6 +225,19 @@ Purpose, 4-27 October 2021
 - **Winter School in Mathematical & Computational Biology** by the University of Queensland, 2-6 July 2018, Brisbane, Australia
 - **Enterprise & Innovation Workshop** by Centre for Innovation and Entrepreneurship at the University of Auckland, 7 & 13 March 2018, Auckland, NZ
 - **PhD Research Innovation & Commercialisation Course** by Centre for Innovation and Entrepreneurship at the University of Auckland, 9-10 November 2017, Auckland, NZ
+
+&nbsp;
+
+### **Honors/Awards**
+2022 - AWCBR Travel Grant by Neurological Foundation of New Zealand, New Zealand <br/>
+2021 - IET #PresentIn10 Competition Award (Healthy lives, Stage 1 winner) by Institution of Engineering and Technology (IET) <br/>
+2020 - University of Auckland Doctoral Scholarship by University of Auckland, New Zealand <br/>
+2019 - FMHS-PGSA Domestic/AUS Travel Grant by University of Auckland, New Zealand <br/>
+2017 - Liggins Institute Doctoral Scholarship by Liggins Institute, New Zealand <br/>
+2015 - 8th Thematic Intensive School Grant by Jaume I University, Spain <br/>
+2014 - 6th Thematic Intensive School Grant by Kocaeli University, Turkey <br/>
+2013 - 5th Thematic Intensive School Grant by Vienna University of Technology, Austria <br/>
+2013 - 7th General Intensive School Grant by University of Camerino, Italy <br/>
 
 &nbsp;
 
