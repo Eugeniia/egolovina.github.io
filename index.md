@@ -1,6 +1,6 @@
 ## **Evgeniia Golovina, PhD**
 
-[Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md)
+[Education](Education.md) | [Professional experience](PR_experience.md) | [Skills & Interests](SI.md) | [Activities](AP.md) | [Publications](Publications.md) | [Volunteer experience](Volunteer_experience.md) | [Additional education](Additional_education.md) | [Honors & Awards](HA.md)
 
 ### **Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand**
 
