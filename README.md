@@ -228,7 +228,7 @@ Purpose, 4-27 October 2021
 
 &nbsp;
 
-### **Honors/Awards**
+### **Honors & Awards**
 2022 - AWCBR Travel Grant by Neurological Foundation of New Zealand, New Zealand <br/>
 2021 - IET #PresentIn10 Competition Award (Healthy lives, Stage 1 winner) by Institution of Engineering and Technology (IET) <br/>
 2020 - University of Auckland Doctoral Scholarship by University of Auckland, New Zealand <br/>
