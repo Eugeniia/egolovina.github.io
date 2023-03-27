@@ -14,7 +14,7 @@ Contact me via Linkedin or email.
 
 - 7 years of experience in data science
 - Broad knowledge in health science, genetics, molecular biology and biochemistry
-- Programming experience in R, Python, Matlab, Bash
+- Programming experience in R, Python, Matlab, C++, Bash
 - Excellent organizational, writing, communication and presentation skills
 - High motivation to get things done
 - Ability to work in team and independently
@@ -42,6 +42,8 @@ disorders](https://hdl.handle.net/2292/57161)”<br/>
 **MSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Biochemistry and Molecular Biology<br/>
 Thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
+Supervisors: Prof. Justin M. O'Sullivan and Prof. Mark H. Vickers<br/>
+Supervisors: Prof. Lyudmila Panina and Dr. Vasily Stefanov<br/>
 
 **2012 &ndash; 2014**<br/>
 **Professional Communication Translator**. *Saint Petersburg State University, English & Russian*<br/>
@@ -51,6 +53,7 @@ Diploma work in translation of “Raman Spectroscopy in Art and Archaeology: A N
 **BSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Cell and Molecular Biology, Biotechnology<br/>
 Thesis “Diagnostics and genotyping of viral hepatitis C in Saint Petersburg and Leningrad region in 2010-2011”<br/>
+Supervisor: Andrey Komissarov<br/>
 
 
 &nbsp;
@@ -64,18 +67,25 @@ Position: Postdoctoral Fellow<br/>
 Developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits. Co-supervising three PhD students.
 
 
+<strong>7.11.2022 &mdash; 12.12.2022</strong><br/>
+<strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
+Position: UoA Micro-internship Mentor<br/>
+
+Supported four teams of students by guiding them, and providing constructive and timely feedback. Helped teams perform data analysis and web platform development, and prepare and deliver the final report/presentation to KPMG and ARCLAB clients.
+
+
 <strong>13.06.2022 &mdash; 18.07.2022</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
 Position: UoA Micro-internship Mentor<br/>
 
-Supported three teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, SWOT and SEO analyses, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
+Supported three teams of students by guiding them, and providing constructive and timely feedback. Helped teams perform SWOT and SEO analyses, and prepare and deliver the final report/presentation to NxtStep company.
 
 
 <strong>09.11.2021 &mdash; 17.12.2021</strong><br/>
 <strong>[Talent Solutions](https://talentsolutions.co.nz/)</strong>, Auckland, New Zealand<br/>
 Position: UoA Micro-internship Mentor<br/>
 
-Supported two teams of students by guiding them, providing constructive and timely feedback, and helping them gain real-world industry experience (i.e. teamwork, market research, preparation and delivery of the final report/presentation to the client) with leading New Zealand organizations.
+Supported two teams of students by guiding them, and providing constructive and timely feedback. Helped teams perform market research, and prepare and deliver the final report/presentation to Fernglen Farm.
 
 
 <strong>01.04.2021 &mdash; 11.10.2021</strong><br/>
@@ -120,7 +130,7 @@ visualization tools (Tableau and Microsoft Power BI), machine learning framework
 Python, R, MatLab, C++, Bash
 
 **Languages:**
-Russian (native), English (professional), Spanish (limited), German (elementary)
+Russian (native), English (professional), Spanish (limited)
 
 **Professional interests:**
 Health sciences, bioinformatics, data science, data visualization, public speaking, machine learning, 4D genome architecture, gene regulation, scientific communication, behavioral genetics, psychology, precision medicine, innovation and commercialization in science
@@ -151,47 +161,54 @@ November 2020<br/>
 
 ### **Publications**
 
+- **Golovina E**, Fadason T, Jaros RK, Kumar H, John J, Burrowes K, Tawhai M, O’Sullivan JM. De novo discovery of traits co-occurring with chronic obstructive pulmonary disease. Life Sci Alliance. 2023. [DOI](http://doi.org/10.26508/lsa.202201609)
 - Farrow S, Schierding W, Gokuladhas S, **Golovina E**, Fadason T, Cooper AA, O’Sullivan JM. Establishing gene regulatory networks from Parkinson's disease risk loci. Brain. 2022.  [DOI](https://doi.org/10.1093/brain/awac022)
 - Fadason T, Farrow S, Gokuladhas S, **Golovina E**, Nyaga D, O'Sullivan JM, Schierding W. Assigning function to SNPs: Considerations when interpreting genetic variation. Semin Cell Dev Biol. 2021. [DOI](https://doi.org/10.1016/j.semcdb.2021.08.008)
 - Gokuladhas S, Schierding W, **Golovina E**, Fadason T, O’Sullivan JM. Unravelling the shared genetic mechanisms underlying 18 autoimmune diseases using a systems approach. Front Immunol. 2021;12:3262. [DOI](https://doi.org/10.3389/fimmu.2021.693142)
 - **Golovina E**, Fadason T, Lints T, Walker C, Vickers MH, O'Sullivan JM. Understanding the impact of SNPs associated with autism spectrum disorder on biological pathways in the human fetal and adult cortex. Sci Rep. 2021;11:15867. [DOI](https://doi.org/10.1038/s41598-021-95447-z)
 - **Golovina E**, Vickers MH, Erb CD, O’Sullivan JM. GWAS SNPs impact shared regulatory pathways amongst multimorbid psychiatric disorders and cognitive functioning. Front Psychiatry. 2020;11:1079. [DOI](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.560751/full)
 - Hibberd R, **Golovina E**, Farrow S, O’Sullivan JM. Genetic variants associated with alcohol dependence coordinate regulation of ADH genes in gastrointestinal and adipose tissues. Sci Rep. 2020;10:1-10. [DOI](https://www.nature.com/articles/s41598-020-66048-z)
-- Fadason T, Gokuladhas S, **Golovina E**, Ho D, Farrow S, Nyaga D, et al. A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors. bioRxiv. 2020:2020.04.14.042002. [DOI](https://www.biorxiv.org/content/10.1101/2020.04.14.042002v2)
+
 
 &nbsp;
 
 ### **Volunteer experience**
 
-<strong>01.04.2021 &mdash; present</strong><br/>
+<strong>09.03.2023 &mdash; present</strong><br/>
+<strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
+Role: Business Mentor<br/>
+
+Supporting business students (Women’s Mentoring Programme 2023).
+
+<strong>01.04.2021 &mdash; 01.10.2022</strong><br/>
 <strong>[English Language Partners](https://www.englishlanguage.org.nz/)</strong>, Auckland, New Zealand<br/>
 Role: Job Mentor<br/>
 
 Helping improve communication between New Zealand employers and new migrant employees (Worktalk and F2F English for Employees programs).
 
 
-<strong>01.09.2021 &mdash; present</strong><br/>
+<strong>01.09.2021 &mdash; 01.10.2022</strong><br/>
 <strong>[The University of Auckland English Language Academy](https://www.ela.auckland.ac.nz/)</strong>, Auckland, New Zealand<br/>
 Role: Conversation Leader<br/>
 
 Helping ELA students to engage in meaningful conversations outside of their English classes by creating a comfortable group environment, encouraging equal participation, promoting tolerance to cultural differences and making sure all participants can follow the conversation (Meet2Chat program).
 
 
-<strong>09.03.2022 &mdash; present</strong><br/>
+<strong>09.03.2022 &mdash; 01.10.2022</strong><br/>
 <strong>[The University of Auckland Business School](https://www.auckland.ac.nz/en/business.html)</strong>, Auckland, New Zealand<br/>
 Role: Business Mentor<br/>
 
-Supporting business students (Women’s Mentoring Programme).
+Supporting business students (Women’s Mentoring Programme 2022).
 
 
-<strong>01.09.2021 &mdash; present</strong><br/>
+<strong>01.09.2021 &mdash; 01.10.2022</strong><br/>
 <strong>[The University of Auckland Book Club](https://www.auckland.ac.nz/en/alumni/get-involved/virtual-book-club.html)</strong>, Auckland, New Zealand<br/>
 Role: Discussion Leader<br/>
 
 Sharing my passion for reading through creating an engaging and thoughtful community where members can feel comfortable and welcome participating in the discussions of book selections that span different genres and topics.
 
 
-<strong>01.10.2021 &mdash; present</strong><br/>
+<strong>01.10.2021 &mdash; 01.10.2022</strong><br/>
 <strong>[GoodSAM](https://www.goodsamapp.org/)</strong>, New Zealand<br/>
 Role: GoodSAM Responder<br/>
 
