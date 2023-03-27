@@ -37,12 +37,12 @@ Contact me via Linkedin or email.
 **PhD**. *University of Auckland, Liggins Institute, Health Sciences*<br/>
 Thesis “[Decoding the regulatory landscape of psychiatric and alcohol use
 disorders](https://hdl.handle.net/2292/57161)”<br/>
+Supervisors: Prof. Justin M. O'Sullivan and Prof. Mark H. Vickers<br/>
 
 **2012 &ndash; 2014**<br/>
 **MSc**. *Saint Petersburg State University, Biology*<br/>
 Specialization: Biochemistry and Molecular Biology<br/>
 Thesis “Improvement of information value of spectroscopic data in the analysis of biodeteriorations”<br/>
-Supervisors: Prof. Justin M. O'Sullivan and Prof. Mark H. Vickers<br/>
 Supervisors: Prof. Lyudmila Panina and Dr. Vasily Stefanov<br/>
 
 **2012 &ndash; 2014**<br/>
